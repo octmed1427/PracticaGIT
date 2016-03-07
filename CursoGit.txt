@@ -2,3 +2,9 @@ Sistema de Control Escolar
 _____________________________________________
 Este sistema permite gestionar las actividades de control escolar,
 tales como la captura de alumnos, calificaciones y boletas.
+_________________________________________________
+
+Requisitos funcionales
+1.-El sistema debe permitir el registro de alumnos
+2.- El sistema debe mostrar reportes de alumnos dados de baja
+3.- el sistema debe permitir la captura de Calificaciones
