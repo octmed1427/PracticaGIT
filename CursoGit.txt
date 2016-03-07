@@ -8,3 +8,11 @@ Requisitos funcionales
 1.-El sistema debe permitir el registro de alumnos
 2.- El sistema debe mostrar reportes de alumnos dados de baja
 3.- el sistema debe permitir la captura de Calificaciones
+
+_____________________________________________________
+
+Requisitos no funcoinales
+
+1.- El sistema debe ser facil de usar
+2.- El sistema debe manejar datos de manera segura
+3.- el sistema debe estar disponioble todo el tiempo.
