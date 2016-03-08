@@ -16,3 +16,9 @@ Requisitos no funcoinales
 1.- El sistema debe ser facil de usar
 2.- El sistema debe manejar datos de manera segura
 3.- el sistema debe estar disponioble todo el tiempo.
+
+________________________________________________
+
+Conclusiones
+
+El sistema está implementado
