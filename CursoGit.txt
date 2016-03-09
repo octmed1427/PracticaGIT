@@ -22,3 +22,19 @@ ________________________________________________
 Conclusiones
 
 El sistema está implementado
+
+Inforamcion de la Rama Prueba
+______________________________________________
+ Esta es una nueva rama del proyecto
+
+
+Otro commit a la rama prueba 
+_______________________________________________
+Este commit solo se muestra en la rama prueba,
+posteriormente lo vamos a fusionar en la rama master.
+
+
+________________________________________________________
+Este es el primer commit para subirlo directamente a github.
+_____________________________________________________________
+GITHUB-GITHUB-GITHUB-GITHUB
